@@ -1,7 +1,7 @@
 # LexiLands
 A quiz to learn to recognise European languages from place names. My final project for Harvard's [CS50P](https://cs50.harvard.edu/python/) (Introduction to Programming with Python), January 2025.
 
-- **Author:** Luca De Rosa ([L5900](https://github.com/L5900))
+- **Author:** Luca De Rosa ([luca-de-rosa](https://github.com/luca-de-rosa))
 - **Video demo:** https://youtu.be/9FBCpp701-U
 ## Description: 
  This project provides a learning tool to improve recognition of languages from text. 
